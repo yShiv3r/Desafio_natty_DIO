@@ -1,0 +1,22 @@
+# Gerando imagens com inteligencia artificial
+
+## 📒 Descrição
+Nesse projeto será utilizado IAs generativas para a criação imagens. O objetivo é buscar resultado mais realistico possivel, o suficiente para com fundir o olho humano e tornar um desafio para descobrir se é uma imagem gerada por IA ou apenas uma foto
+
+## 🤖 Tecnologias Utilizadas
+Foi utilizado o "Adobe firefly" para a criação das imagens, ele gera o resultado que usuario deseja transformando texto em imagem de uma maneira gratuita, intuitiva e criativa. 
+
+## 🧐 Processo de Criação
+Com a ferramenta do "firefly" foi necessario apenas dar algumas instruções por texto para a IA criar as imagens desejadas.
+
+## 🚀 Resultados
+* Cachorro comendo arroz
+
+![Cachorro comendo arroz](https://lh3.googleusercontent.com/pw/AP1GczN0m4p17sOcVnNSfyw8bWU0L6OU5Zj6CFkOKRFd-lhlHxCh6tK1vP_9XXGCFh1amnono-uxqGl2epMfaO6yYDdQKe1Smt8bPZHXmVNNch38q3Sgph69w6HSahh6Hrll3Xkhql-wxioXQKHrtegy6K-R6shj8seFl4RIUgXIjmN1E2pM75ClB-8P--BQ_E0amcwfcYOyFdw-VnCAKS6v-Sq-DzDx9bBlm1m3Fsy1f9kESi6-WOp5qrX-7oBiL_G97JuZxmbgbutqTiU1KDCWfJLZdcZUsaX6Iz-z0v12VfmVoGRjo92ltWpQwpioq0kgFH0IVEsDWjpcJ90Rgokn4TiJFTDBu49ssIulfzJFaIb5FPogfFTA9c60xIC-J3avsLEGRtElIwELqfUWjTv-B6Ibpilmh0h4JSI6qghetgPjUgjMn8plkSfhsyhXS5ofhQPLNDMM4VhB_ag7pZ-Kq-94_fRooruim-3qXoKwfx2aSk5BdDgzMJva-5R8GnsXMXlF6YTUSqcpUWvqeEEG3BLP2jMsnItXgWggorcO7Z895rrJymTn9QtA2H1wT9t9f28SMznnE_iC4qCJvo5sGsvcZJf1f8WK75pw2but88iGCTcg3J9-DS6LMoIPrasUNVCUmTRLjouc_yqFh3BGLuDLIBmwebkT4jbI4sA5dpJdZXPvarT00nRlb5ZofZFZTQr0UovrIHKuq1yc40JoMQwJ_Q9GgrhUQ_z50RLrTBbOocnpGg665zAcKRovuI-SyE4t1mvCZVXp3-55iShm-TfvZSCVEq7RdGu-brZ3f0Yez12TrMg0qt-5ToLxx7Gc5l6GYnrhb9D_sIWBiPUB_s-u3KSl20H1oHjzVE6fbHhH6xxgFe0riRdVMuk1hBMrpCrWURVtttYFkHVwPFwsmKo8isU=w620-h620-s-no-gm?authuser=0)
+
+* Gato nadando
+
+![Gato nadando](https://lh3.googleusercontent.com/pw/AP1GczOwchhbiTRh-yGaDr-pPQXbYuPLyErTeFH_XDCNIw9J9ClUJulsF2aSAQtIaT1jowwrSJzpcxJwgKnfyq9GhZjokPABjy0S_YBX1D5pky0IG_y75Yn4IM8rJiKS4KgmcsPFir5e7zTDlOi4xb118d3qltxk6oOYq1IaQ7ywsz90JF_hBAk0rjNVeXp8YNu1csi8SuK-8C9UjRUrKFPUqdOZjClxaWFsfzgafh8NacyRheWxcdMwKev8sG2uhhwhaC0ytFL52Rs1PUGBbvxXqBMyu26O_ZXHBOSw-Uxs_aiKatf9mf92CgcsBO6FJIFRaNvaqpGqUEoGTwOGwXh3GllbMRGHIzUMQjrYDtzhQG2lpuadgrN9dBktfibkVIT3p5P6eXS-fpCC69XZLwSzhZ66AVBaa3TOUwpmg6E6udLRTDYn2mqnxMPer3qs_QZF_QiKSB4nHpW__wNFDlR7RU8hjEHg8RrVvn2-5T-QQfVRh6TsIZbOzSGdb8hyd4On9fGWqGbgv9vhD0eeH1hZevcZqx3G5lDhLskyTw6iuEirul4qyOgwBXRDqrFt4wWNhyARx_gr6R60zOnUlO_qY6DWrPQrMLOKFkuO_LymyOqCV7o7veczCDMoV3PtC7_j0G7l7_UIyYqw_UzNdGvzW49LeiiF-9YeQdT6DUd_A9rPZAlUTuzRcMU4MhgPoAXbWxIwd2EKxX4ydNDjSVeMu6jFw9Q8CzIsvHWpAtcTf7ceKq_D8v_tBs56vEaK7FI-j49if-rDBIVMv1xJ6dWBBLjHRlqX1XgB5rieuMNESOIuHPDLUqHX5L1pAESd0JmZETSXSzMX5Qw_bQIshiPYwvyF04QN-j99k5NZZRRhiqOWm6TnPkrFGoZ8GULGhyRu9pIKQ9EWasHcsVm0i0dptztI5mc=w620-h620-s-no-gm?authuser=0)
+
+## 💭 Reflexão (Opcional)
+Com as IAs geneartivas que temos disponivel gratuitamente hoje em dia não fica dificil qualquer pessoas poder utilizalas para tarbalho, estudo ou se divertir criando coisa novas.
